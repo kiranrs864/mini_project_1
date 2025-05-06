@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price
+101,Apple,Fruit,0.5
+102,Banana,Fruit,0.3
+103,Milk,Dairy,1.2
+104,Bread,Bakery,1.0
+105,Eggs,Dairy,2.0
+106,Butter,Dairy,1.5
+107,Cheese,Dairy,2.5
+108,Juice,Beverage,1.8
+109,Cookies,Snacks,2.2
+110,Yogurt,Dairy,1.3
